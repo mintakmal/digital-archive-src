@@ -1,3 +1,5 @@
+'use client';
+
 import { Header } from '@/components/header';
 import { AuthGuard } from '@/components/auth-guard';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
