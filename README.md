@@ -34,7 +34,7 @@ A modern, responsive digital archive platform for browsing, purchasing, and down
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/mintakmal/digital-archive-src.git
 cd digital-archive
 ```
 
